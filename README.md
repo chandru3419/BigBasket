@@ -1,5 +1,5 @@
 # BigBasket-assessmet
-This repository for assessment of TestVagrant Technologies.
+This repository for assessment of Big basket.
 
 Notes for local execution
 Clone The URI to your IDE and Update the project once and run the code.
